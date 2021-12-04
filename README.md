@@ -1,3 +1,6 @@
+## Civitatis test
+Esta aplicación web esta desarrollada con el lenguaje PHP haciendo uso del framework laravel y la libreria React.
+
 ## Pasos para la instalación de civitatis test
 
 1. Renombrar el archivo ".env.example" por ".env"
@@ -13,3 +16,10 @@
  - npm run dev
  - php artisan serve
  5. Abrir un navegador y en la barra de dirección ingresar http://127.0.0.1:8000 y seguidamente enter
+
+
+## Pasos para ejecutar las pruebas unitarias con phpunit
+1. Abra un terminal y navegue hasta el directorio de la app
+2. Ejecute el comando:
+    Mac y linux: <code>vendor/bin/phpunit</code>
+    Windows:  <code>php vendor/phpunit/phpunit/phpunit<code>
