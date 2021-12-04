@@ -1,0 +1,28 @@
+[
+    {
+        "idActividad": "1",
+        "idRelacion": "3"
+    },
+    {
+        "idActividad": "1",
+        "idRelacion": "4"
+    },
+    {
+        "idActividad": "1",
+        "idRelacion": "6"
+    },
+
+    {
+        "idActividad": "2",
+        "idRelacion": "3"
+    },
+    {
+        "idActividad": "3",
+        "idRelacion": "7"
+    },
+    {
+        "idActividad": "4",
+        "idRelacion": "5"
+    }
+
+]

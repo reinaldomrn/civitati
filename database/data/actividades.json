@@ -1,0 +1,58 @@
+[
+    {
+        "titulo": "Excursión a Toledo de medio día",
+        "descripcion": "En este tour de medio día visitaremos Toledo, una de las ciudades más bonitas de España. Conoceremos el legado de El Greco y descubriremos cómo convivieron en su casco antiguo las culturas cristiana, musulmana y judía.",
+        "fechaInicio": "2021-01-01",
+        "fechaFinal": "2022-01-01",
+        "precio": "52.20",
+        "popularidad": "3"
+    },
+    {
+        "titulo": "Visita guiada por el Palacio Real",
+        "descripcion": "En esta visita guiada por el Palacio Real de Madrid descubriremos los secretos de uno de los palacios más grandes de Europa. Conoceremos la historia de la realeza española mientras recorremos sus estancias, salones y jardines.",
+        "fechaInicio": "2022-01-01",
+        "fechaFinal": "2022-03-01",
+        "precio": "28.20",
+        "popularidad": "2"
+    },
+    {
+        "titulo": "Excursión a Toledo y Segovia",
+        "descripcion": "Déjate sorprender por dos de los destinos más visitados de España: Toledo y Segovia. Recorre en un solo día la Ciudad de las Tres Culturas y la ciudad que alberga el acueducto romano más famoso del mundo.",
+        "fechaInicio": "2021-12-01",
+        "fechaFinal": "2022-03-01",
+        "precio": "73.50",
+        "popularidad": "4"
+    },
+    {
+        "titulo": "Tour por Madrid",
+        "descripcion": "¿Qué mejor forma de comenzar a conocer Madrid que haciendo una visita guiada con un guía local? El Tour de Civitatis te permitirá conocer las historias y leyendas y los rincones emblemáticos del Madrid de ayer para disfrutar el Madrid de hoy.",
+        "fechaInicio": "2021-01-01",
+        "fechaFinal": "2022-01-01",
+        "precio": "80.50",
+        "popularidad": "1"
+    },
+    {
+        "titulo": "Palacio Real + Catedral de la Almudena",
+        "descripcion": "El Palacio Real y la Catedral de la Almudena son dos emblemas de Madrid. Adéntrate en ambos monumentos con este tour y conocerás un poco más la historia de España. ¿Te vienes?",
+        "fechaInicio": "2021-01-01",
+        "fechaFinal": "2022-01-01",
+        "precio": "39.60",
+        "popularidad": "5"
+    },
+    {
+        "titulo": "Excursión a El Escorial y Valle de los Caídos",
+        "descripcion": "La excursión a El Escorial y Valle de los Caídos nos permitirá conocer estos dos monumentos en un mismo día. Un viaje en el tiempo desde el siglo XVI hasta la Guerra Civil española.",
+        "fechaInicio": "2021-01-01",
+        "fechaFinal": "2022-01-01",
+        "precio": "66.70",
+        "popularidad": "3"
+    },
+    {
+        "titulo": "Tour panorámico por Madrid",
+        "descripcion": "¿Queréis disfrutar de las mejores vistas de Madrid a bordo de un autobús​? Este tour panorámico nos permitirá ver algunos de los lugares más icónicos de la capital de España, como la Puerta del Sol, la Fuente de Cibeles, la Gran Vía o el estadio Santiago Bernabéu. ¡La forma más cómoda de conocer la ciudad!",
+        "fechaInicio": "2021-01-01",
+        "fechaFinal": "2022-01-01",
+        "precio": "17",
+        "popularidad": "2"
+    }
+]
